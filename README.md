@@ -2,7 +2,7 @@
 
 Welcome to the repository for the **Online Learning Campaign**, developed during the academic year 2024/2025. This project focuses on designing **online learning algorithms** to optimize a marketing campaign, including pricing strategies and bidding in auctions.
 
-🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto), [Niccolò Balestrieri](https://github.com/NiccoloBalestrieri) and [Francesco Cavalieri](https://github.com/KavaTappi)
+🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto), [Nicolò Tombini](https://github.com/tombinic) and [Francesco Cavalieri](https://github.com/KavaTappi)
 ## 📝 Overview
 
 The goal of this project is to design and implement online learning algorithms to address two key challenges in a marketing campaign:
